@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 POPPLER_PATH = None
 if platform.system() == 'Windows':
     # Local development path
-    POPPLER_PATH = r"C:\Users\Jayesh\poppler\poppler-23.08.0\Library\bin"
+    POPPLER_PATH = r"C:\poppler-25.12.0\Library\bin"
 
 class PDFProcessor:
     @staticmethod
