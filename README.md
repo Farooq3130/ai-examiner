@@ -1,4 +1,5 @@
-📘 AUTOMATED PAPER EVALUATION SYSTEM FOR SUBJECTIVE HANDWRITTEN ANSWERS
+**📘 AUTOMATED PAPER EVALUATION SYSTEM FOR SUBJECTIVE HANDWRITTEN ANSWERS**
+
 Now this is your complete system explanation, stitched properly — including BERT/SBERT + AI pipeline + system flow.
 No fluff. This is how your project actually works end-to-end.
 
